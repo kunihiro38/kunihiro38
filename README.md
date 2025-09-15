@@ -12,7 +12,7 @@ I'm a Project Manager in an IT company, and I enjoy coding as a hobby. 👨‍�
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
 - AWS Certified Solutions Architect
-- ORACLE MASTER Bronze DBA
+- ORACLE MASTER Bronze
 
 ## 📈 Status
 <p align="left"> 
