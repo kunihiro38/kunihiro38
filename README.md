@@ -1,3 +1,5 @@
+<img width="868" height="169" alt="github_profile_img" src="https://github.com/user-attachments/assets/ab0626d2-3fdc-425a-bf65-7e4d583d3b4e" />
+
 ## 🌕 About kunihiro38
 
 Hi, I'm Kuni.  
